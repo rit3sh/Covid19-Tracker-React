@@ -1,0 +1,25 @@
+[debug] [2021-06-21T05:57:22.571Z] ----------------------------------------------------------------------
+[debug] [2021-06-21T05:57:22.573Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ritesh Shahi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-06-21T05:57:22.573Z] CLI Version:   9.13.1
+[debug] [2021-06-21T05:57:22.573Z] Platform:      win32
+[debug] [2021-06-21T05:57:22.573Z] Node Version:  v14.16.0
+[debug] [2021-06-21T05:57:22.574Z] Time:          Mon Jun 21 2021 11:42:22 GMT+0545 (Nepal Time)
+[debug] [2021-06-21T05:57:22.574Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-06-21T05:57:22.580Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-06-21T05:57:22.580Z] > authorizing via signed-in user (riteshahi@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\React\covid-19-tracker
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
